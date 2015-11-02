@@ -1,2 +1,2 @@
 my first file
-changes..
+changes.. STAGE changes
