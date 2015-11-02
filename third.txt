@@ -3,3 +3,5 @@ abc test !!
 my second line changes.
 
 master contact changes
+
+<h1>test branch conflits !</h1>
